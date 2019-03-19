@@ -1,0 +1,9 @@
+.flex-item {
+    width: 100px;
+    height: 100px;
+    background: red;
+    margin-right: 5px;
+}
+.container{
+    display: flex;
+}
