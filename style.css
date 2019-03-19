@@ -5,5 +5,11 @@
     margin-right: 5px;
 }
 .container{
+    margin: 0 auto;
+    padding: 20px;
     display: flex;
+    width: 20%;
+    justify-content: center;
+    box-shadow: 2px 2px 5px #ccc;
+    border: 1px solid #eee;
 }
